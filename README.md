@@ -3,9 +3,9 @@
 Analysis of Tweets about the 2020 presidential debate from October 15th until election day.
 
 ## Software and Platform Section
-Language: Python (Jupyter Notebook)
-Packages: Pandas, NLTK, Matplotlib, Scipy
-Platform: Windows, Mac
+Language: Python (Jupyter Notebook) <br>
+Packages: Pandas, NLTK, Matplotlib, Scipy <br>
+Platform: Windows, Mac <br>
 
 ## Directory
 2020_Twitter_Sentiment_Analysis/ <br>
