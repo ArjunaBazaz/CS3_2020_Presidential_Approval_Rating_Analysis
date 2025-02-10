@@ -7,22 +7,22 @@ Platform: Windows, Mac
 
 ## Directory
 2020_Twitter_Sentiment_Analysis/ <br>
-├── SCRIPTS/
-│   ├── 1_data_cleaning.ipynb
-│   ├── 2_initial_data_exploration.ipynb
-│   ├── 3_natural_language_processing.ipynb
-│   ├── 4_data_analysis.ipynb
-├── DATA/
-│   ├── debate_tweets.csv
-│   ├── debate_tweets_cleaned.csv
-│   ├── compressed_data.csv.gz
-├── OUTPUT/
-├── LICENSE.md
-├── README.md
+├── SCRIPTS/ <br>
+│   ├── 1_data_cleaning.ipynb <br>
+│   ├── 2_initial_data_exploration.ipynb <br>
+│   ├── 3_natural_language_processing.ipynb <br>
+│   ├── 4_data_analysis.ipynb <br>
+├── DATA/ <br>
+│   ├── debate_tweets.csv <br>
+│   ├── debate_tweets_cleaned.csv <br>
+│   ├── compressed_data.csv.gz <br>
+├── OUTPUT/ <br>
+├── LICENSE.md <br>
+├── README.md <br>
 
 ## Reproduction Instructions
 
-Step 1: Download [dataset]([url](https://www.kaggle.com/datasets/manchunhui/us-election-2020-tweets)) from Kaggle.
+Step 1: Download [dataset]([url](https://www.kaggle.com/datasets/manchunhui/us-election-2020-tweets)) from Kaggle. <br>
 Step 2: 
 
 Analysis of Tweets about the 2020 presidential debate from October 15th until election day.
