@@ -6,19 +6,19 @@ Packages: Pandas, NLTK, Matplotlib, Scipy
 Platform: Windows, Mac
 
 ## Directory
-2020_Twitter_Sentiment_Analysis/
-├── SCRIPTS/
-│   ├── 1_data_cleaning.ipynb
-│   ├── 2_initial_data_exploration.ipynb
-│   ├── 3_natural_language_processing.ipynb
-│   ├── 4_data_analysis.ipynb
-├── DATA/
-│   ├── debate_tweets.csv
-│   ├── debate_tweets_cleaned.csv
-│   ├── compressed_data.csv.gz
-├── OUTPUT/
-├── LICENSE.md
-├── README.md
+2020_Twitter_Sentiment_Analysis/ \\
+├── SCRIPTS/ \\
+│   ├── 1_data_cleaning.ipynb \\
+│   ├── 2_initial_data_exploration.ipynb \\
+│   ├── 3_natural_language_processing.ipynb \\
+│   ├── 4_data_analysis.ipynb \\
+├── DATA/ \\
+│   ├── debate_tweets.csv \\
+│   ├── debate_tweets_cleaned.csv \\
+│   ├── compressed_data.csv.gz \\
+├── OUTPUT/ \\
+├── LICENSE.md \\
+├── README.md \\
 
 ## Reproduction Instructions
 
