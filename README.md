@@ -27,4 +27,4 @@ Platform: Windows, Mac <br>
 Step 1: Download [dataset]([url](https://www.kaggle.com/datasets/manchunhui/us-election-2020-tweets)) from Kaggle and run the first initial code blocks in SCRIPTS/1_data_cleaning.ipynb. Alternatively, you can simply use the debate_tweets_cleaning.csv file for analysis. <br>
 Step 2: Run the 2_initial_data_exploration.ipynb. This will conduct basic data exploration. <br>
 Step 3: Run 3_natural_language_processing.ipynb. _____. <br>
-Step 4: Run 4_data_analysis.ipynb. ______. <br>
+Step 4: Run 4_data_analysis.ipynb. Run each code block in order. The first t-test look for changes in likes from before the debate to after. The second T-test looks at the changes in sentiment from before the debate to after. The final code block conducts as ANOVA. <br>
