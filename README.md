@@ -15,6 +15,8 @@ Platform: Windows, Mac <br>
 │   ├── 3_natural_language_processing.ipynb <br>
 │   ├── 4_data_analysis.ipynb <br>
 ├── DATA/ <br>
+│   ├── candidate_sentiment_summary <br>
+│   ├── compressed_data <br>
 │   ├── debate_tweets.csv <br>
 │   ├── debate_tweets_cleaned.csv <br>
 │   ├── compressed_data.csv.gz <br>
