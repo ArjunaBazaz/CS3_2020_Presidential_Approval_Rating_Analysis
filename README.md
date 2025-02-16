@@ -14,6 +14,7 @@ Platform: Windows, Mac <br>
 │   ├── 2_initial_data_exploration.ipynb <br>
 │   ├── 3_natural_language_processing.ipynb <br>
 │   ├── 4_data_analysis.ipynb <br>
+│   ├── 4_data_analysis_2 <br>
 ├── DATA/ <br>
 │   ├── candidate_sentiment_summary <br>
 │   ├── compressed_data <br>
