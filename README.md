@@ -22,6 +22,9 @@ Platform: Windows, Mac <br>
 │   ├── debate_tweets_cleaned.csv <br>
 │   ├── compressed_data.csv.gz <br>
 ├── OUTPUT/ <br>
+│   ├── before_after_debate_sentiment_analysis.png <br>
+│   ├── swing_state_sentiment_analysis.png <br>
+│   ├── interaction_plot_sentiment_analysis.png <br>
 ├── LICENSE.md <br>
 ├── README.md <br>
 
