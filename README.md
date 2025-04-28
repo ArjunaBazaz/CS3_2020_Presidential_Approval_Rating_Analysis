@@ -3,7 +3,7 @@
 Analysis of Tweets about the 2020 presidential debate from October 15th until election day.
 
 ## Case Study
-Document outlining case study available at CS3 Hook Document - Arjuna Bazaz.pdf and rubric available at ______. Instructions available under Repoduction Instructions section.
+Document outlining case study available at CS3 Hook Document - Arjuna Bazaz.pdf and rubric available at Rubric_Case_Study.docx.pdf. Instructions available under Repoduction Instructions section.
 
 ## Software and Platform Section
 Language: Python (Jupyter Notebook) <br>
@@ -25,10 +25,14 @@ Platform: Windows, Mac <br>
 │   ├── debate_tweets_cleaned.csv <br>
 │   ├── debate_tweets_with_sentiment.csv <br>
 │   ├── compressed_data.csv.gz <br>
+├── MATERIALS/ <br>
+│   ├── 
 ├── OUTPUT/ <br>
 │   ├── before_after_debate_sentiment_analysis.png <br>
 │   ├── swing_state_sentiment_analysis.png <br>
 │   ├── interaction_plot_sentiment_analysis.png <br>
+├── CS3 Hook Document - Arjuna Bazaz.pdf <br>
+├── Rubric_Case_Study.docx.pdf <br>
 ├── LICENSE.md <br>
 ├── README.md <br>
 
