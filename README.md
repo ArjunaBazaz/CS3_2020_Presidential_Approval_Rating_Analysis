@@ -2,6 +2,9 @@
 
 Analysis of Tweets about the 2020 presidential debate from October 15th until election day.
 
+## Case Study
+Document outlining case study available at ________ and rubric available at ______. Instructions available under Repoduction Instructions section.
+
 ## Software and Platform Section
 Language: Python (Jupyter Notebook) <br>
 Packages: Pandas, NLTK, Matplotlib, Scipy <br>
