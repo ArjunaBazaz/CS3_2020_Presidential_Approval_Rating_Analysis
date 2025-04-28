@@ -26,7 +26,8 @@ Platform: Windows, Mac <br>
 │   ├── debate_tweets_with_sentiment.csv <br>
 │   ├── compressed_data.csv.gz <br>
 ├── MATERIALS/ <br>
-│   ├── 
+│   ├── NLP_encoding.pdf <br>
+│   ├── Social_Media_Analysis.pdf <br>
 ├── OUTPUT/ <br>
 │   ├── before_after_debate_sentiment_analysis.png <br>
 │   ├── swing_state_sentiment_analysis.png <br>
